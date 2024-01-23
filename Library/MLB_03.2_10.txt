@@ -1,0 +1,14 @@
+Project Group ID - MLB_03.02_10
+
+Batch No         - Y1.S2.WD.IT.03.02
+
+Topic            - Library Management System
+
+                                                            Group member details
+
+        Student ID 	Student Name 	                       Email 	         Contact Number                  Contribution
+1 	IT21238062 	Vithusshan	               IT21238062@my.sliit.lk	   0771424466              Login page,Sign up page
+2 	IT21244384	Sritharan Abisheak	       IT21244384@my.sliit.lk	   0776694710              Librarian page,Add book page
+3 	IT21242786	Rajendra Gishor	               IT21242786@my.sliit.lk	   0768445828              Aboutus page,Studymaterial page
+4 	IT21256400	Tharmajeelan Shangeethan       IT21256400@my.sliit.lk	   0713427344              Home page, Feedbackus page
+5 	IT21242540	Ketheeswran Thanushan	       IT21242540@my.sliit.lk	   0776215527              Contactus page, MNessageus page
